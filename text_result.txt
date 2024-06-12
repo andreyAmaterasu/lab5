@@ -1,0 +1,5 @@
+Строка 1: Classic Lorem Ipsum Filler Text:
+Строка 7: Yar Pirate Ipsum
+Строка 13: Pompy Ipsum
+Строка 20: DeLorean Ipsum
+Строка 36: Corporate Ipsum
